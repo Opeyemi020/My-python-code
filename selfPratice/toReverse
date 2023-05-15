@@ -1,0 +1,2 @@
+name = ["sultan", "mariam", "david", "timileyin"]
+print(name[::-1])
